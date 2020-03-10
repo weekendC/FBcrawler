@@ -1,3 +1,13 @@
+#FB爬粉絲專頁讚數API試驗網頁
+以python-SDK套件作為擷取
+
+1. 先上 [圖型API介面](https://developers.facebook.com/tools/explorer) 登入帳號
+2. 選擇要跟使用者授予的權限
+3. 得到token 
+4. 在左上角輸入ID 例如https://www.facebook.com/eri.ximen/posts/1684823954987146 中的eri.xemen
+5. 試試看能不能獲取到基本資料 (目前卡在這)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/weekendC/FBcrawler/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
