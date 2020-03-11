@@ -583,7 +583,7 @@
 ./textimg/0583.jpg	FZ00641
 ./textimg/0584.jpg	AE00768
 ./textimg/0585.jpg	22103580H
-./textimg/0586.jpg	52515125S
+./textimg/0586.jpg	52512125S
 ./textimg/0587.jpg	12606529V
 ./textimg/0588.jpg	22615683V
 ./textimg/0589.jpg	12607116V
@@ -597,12 +597,12 @@
 ./textimg/0597.jpg	W2517337F
 ./textimg/0598.jpg	V2508847F
 ./textimg/0599.jpg	W2518429F
-./textimg/0600.jpg	Y2509372D
+./textimg/0600.jpg	Y2905372D
 ./textimg/0601.jpg	0741Z
 ./textimg/0602.jpg	S200
 ./textimg/0603.jpg	M2511566A
 ./textimg/0604.jpg	0980W
-./textimg/0605.jpg	P25D
+./textimg/0605.jpg	P250
 ./textimg/0606.jpg	3547H
 ./textimg/0607.jpg	T250
 ./textimg/0608.jpg	R2309001D
@@ -615,11 +615,11 @@
 ./textimg/0615.jpg	32B109
 ./textimg/0616.jpg	89N
 ./textimg/0617.jpg	,AET 016 255,
-./textimg/0618.jpg	,ACU 040 299,
+./textimg/0618.jpg	,ACU 040229,
 ./textimg/0619.jpg	,ACU 025 387,
-./textimg/0620.jpg	,ACU 019 865,
-./textimg/0621.jpg	,ACU 038 843,
-./textimg/0622.jpg	,ACU 042 118
+./textimg/0620.jpg	,ACU 019865,
+./textimg/0621.jpg	,ACU 038843,
+./textimg/0622.jpg	,ACU 042118
 ./textimg/0623.jpg	,AAB 376429,
 ./textimg/0624.jpg	20 6S 1
 ./textimg/0625.jpg	30027397
@@ -648,11 +648,11 @@
 ./textimg/0648.jpg	G4ED
 ./textimg/0649.jpg	4875198
 ./textimg/0650.jpg	G4ED
-./textimg/0651.jpg	372 0673
+./textimg/0651.jpg	3720673
 ./textimg/0652.jpg	G4GB
 ./textimg/0653.jpg	484 9284
 ./textimg/0654.jpg	G4GB
-./textimg/0655.jpg	4865356
+./textimg/0655.jpg	486 5356
 ./textimg/0656.jpg	G4GB
 ./textimg/0657.jpg	CU077231
 ./textimg/0658.jpg	G4NB
