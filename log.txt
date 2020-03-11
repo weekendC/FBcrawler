@@ -54,7 +54,7 @@
 ./textimg/0053.jpg	VA-AA
 ./textimg/0054.jpg	15623
 ./textimg/0055.jpg	VA-AA
-./textimg/0056.jpg	M4T29208
+./textimg/0056.jpg	M4T09208
 ./textimg/0057.jpg	M4T10773
 ./textimg/0058.jpg	16216
 ./textimg/0059.jpg	VA-AA
@@ -193,7 +193,7 @@
 ./textimg/0192.jpg	C12S C
 ./textimg/0193.jpg	044861
 ./textimg/0194.jpg	C12S C
-./textimg/0195.jpg	03268A
+./textimg/0195.jpg	03286A
 ./textimg/0196.jpg	4G32 N
 ./textimg/0197.jpg	2G25
 ./textimg/0198.jpg	H21481
@@ -228,37 +228,37 @@
 ./textimg/0227.jpg	046397
 ./textimg/0228.jpg	4G63 R
 ./textimg/0229.jpg	015190
-./textimg/0230.jpg	6A12 S
+./textimg/0230.jpg	6A12S
 ./textimg/0231.jpg	007156
-./textimg/0232.jpg	6A12 S
+./textimg/0232.jpg	6A12S
 ./textimg/0233.jpg	024526
-./textimg/0234.jpg	6A12 S
+./textimg/0234.jpg	6A12S
 ./textimg/0235.jpg	027339
-./textimg/0236.jpg	6A12 S
+./textimg/0236.jpg	6A12S
 ./textimg/0237.jpg	029269
-./textimg/0238.jpg	6A12 S
+./textimg/0238.jpg	6A12S
 ./textimg/0239.jpg	03140A
-./textimg/0240.jpg	6A12 S
+./textimg/0240.jpg	6A12S
 ./textimg/0241.jpg	029738
-./textimg/0242.jpg	6A12 S
+./textimg/0242.jpg	6A12S
 ./textimg/0243.jpg	034750
 ./textimg/0244.jpg	6A12 S
 ./textimg/0245.jpg	008671
-./textimg/0246.jpg	6A12 S
+./textimg/0246.jpg	6A12S
 ./textimg/0247.jpg	002453
-./textimg/0248.jpg	6A12 S
-./textimg/0249.jpg	330449
-./textimg/0250.jpg	6A12 S
+./textimg/0248.jpg	6A12S
+./textimg/0249.jpg	000449
+./textimg/0250.jpg	6A12S
 ./textimg/0251.jpg	028500
-./textimg/0252.jpg	6A12 S
+./textimg/0252.jpg	6A12S
 ./textimg/0253.jpg	022409
-./textimg/0254.jpg	6A12 S
+./textimg/0254.jpg	6A12S
 ./textimg/0255.jpg	003251
-./textimg/0256.jpg	6A12 S
+./textimg/0256.jpg	6A12S
 ./textimg/0257.jpg	029160
-./textimg/0258.jpg	6A12 S
+./textimg/0258.jpg	6A12S
 ./textimg/0259.jpg	030596
-./textimg/0260.jpg	6A12 S
+./textimg/0260.jpg	6A12S
 ./textimg/0261.jpg	067465
 ./textimg/0262.jpg	4G92 D
 ./textimg/0263.jpg	065951
@@ -330,7 +330,7 @@
 ./textimg/0329.jpg	4G64 A
 ./textimg/0330.jpg	A32B 09835
 ./textimg/0331.jpg	A32C 07022
-./textimg/0332.jpg	A320 08936
+./textimg/0332.jpg	A32C 08936
 ./textimg/0333.jpg	A32D 12543
 ./textimg/0334.jpg	VQ30 045257B
 ./textimg/0335.jpg	VQ30 014809B
@@ -525,16 +525,16 @@
 ./textimg/0525.jpg	331GLA
 ./textimg/0526.jpg	YLN
 ./textimg/0527.jpg	19675
-./textimg/0528.jpg	331GLi
+./textimg/0528.jpg	331GLI
 ./textimg/0529.jpg	YLN
 ./textimg/0530.jpg	01986
-./textimg/0531.jpg	331GLi
+./textimg/0531.jpg	331GLI
 ./textimg/0532.jpg	YLN
 ./textimg/0533.jpg	331GTA
 ./textimg/0534.jpg	YLN
-./textimg/0535.jpg	331GCi
+./textimg/0535.jpg	331GCI
 ./textimg/0536.jpg	YLN
-./textimg/0537.jpg	331GXi
+./textimg/0537.jpg	331GXI
 ./textimg/0538.jpg	3579Y
 ./textimg/0539.jpg	YLN
 ./textimg/0540.jpg	058800
