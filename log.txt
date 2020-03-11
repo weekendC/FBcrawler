@@ -1,0 +1,549 @@
+./textimg/0000.jpg	03187601
+./textimg/0001.jpg	19 4S 1
+./textimg/0002.jpg	20 6E D
+./textimg/0003.jpg	24004233
+./textimg/0004.jpg	25 6S 1
+./textimg/0005.jpg	34200156
+./textimg/0006.jpg	25 6S 1
+./textimg/0007.jpg	36367621
+./textimg/0008.jpg	29745
+./textimg/0009.jpg	AA-AH
+./textimg/0010.jpg	22921
+./textimg/0011.jpg	AA-AH
+./textimg/0012.jpg	01266
+./textimg/0013.jpg	AM-AK
+./textimg/0014.jpg	36593
+./textimg/0015.jpg	AA-AH
+./textimg/0016.jpg	41680
+./textimg/0017.jpg	AA-AH
+./textimg/0018.jpg	37808
+./textimg/0019.jpg	AA-AH
+./textimg/0020.jpg	01357
+./textimg/0021.jpg	AA-AN
+./textimg/0022.jpg	26432
+./textimg/0023.jpg	AA-AN
+./textimg/0024.jpg	37792
+./textimg/0025.jpg	AA-AN
+./textimg/0026.jpg	09257
+./textimg/0027.jpg	AA-AN
+./textimg/0028.jpg	10081
+./textimg/0029.jpg	AA-AN
+./textimg/0030.jpg	11403
+./textimg/0031.jpg	AA-AN
+./textimg/0032.jpg	A4E34075
+./textimg/0033.jpg	A4A03361
+./textimg/0034.jpg	01490
+./textimg/0035.jpg	AM-AK
+./textimg/0036.jpg	20494
+./textimg/0037.jpg	AA-AH
+./textimg/0038.jpg	14122
+./textimg/0039.jpg	AA-AH
+./textimg/0040.jpg	02908
+./textimg/0041.jpg	VA-AH
+./textimg/0042.jpg	04241
+./textimg/0043.jpg	VA-AH
+./textimg/0044.jpg	03435
+./textimg/0045.jpg	VA-AH
+./textimg/0046.jpg	01879
+./textimg/0047.jpg	VM-AE
+./textimg/0048.jpg	A3T03738
+./textimg/0049.jpg	A3T04130
+./textimg/0050.jpg	A3T04923
+./textimg/0051.jpg	A3T06043
+./textimg/0052.jpg	18211
+./textimg/0053.jpg	VA-AA
+./textimg/0054.jpg	15623
+./textimg/0055.jpg	VA-AA
+./textimg/0056.jpg	M4T29208
+./textimg/0057.jpg	M4T10773
+./textimg/0058.jpg	16216
+./textimg/0059.jpg	VA-AA
+./textimg/0060.jpg	17821
+./textimg/0061.jpg	VA-AA
+./textimg/0062.jpg	03866
+./textimg/0063.jpg	VA-AA
+./textimg/0064.jpg	04244
+./textimg/0065.jpg	VA-AA
+./textimg/0066.jpg	06985
+./textimg/0067.jpg	VA-AA
+./textimg/0068.jpg	CV15-E15739
+./textimg/0069.jpg	A3V10066
+./textimg/0070.jpg	A4X02577
+./textimg/0071.jpg	A4X11604
+./textimg/0072.jpg	5189327
+./textimg/0073.jpg	G4GB
+./textimg/0074.jpg	2391057
+./textimg/0075.jpg	G4ED
+./textimg/0076.jpg	5771204
+./textimg/0077.jpg	G4EA
+./textimg/0078.jpg	04421
+./textimg/0079.jpg	RA-AA
+./textimg/0080.jpg	09725
+./textimg/0081.jpg	RA-AE
+./textimg/0082.jpg	02526
+./textimg/0083.jpg	TA-AA
+./textimg/0084.jpg	05180
+./textimg/0085.jpg	TA-AA
+./textimg/0086.jpg	04243
+./textimg/0087.jpg	TA-AA
+./textimg/0088.jpg	01273
+./textimg/0089.jpg	TA-AG
+./textimg/0090.jpg	09228
+./textimg/0091.jpg	TA-AG
+./textimg/0092.jpg	01661
+./textimg/0093.jpg	TA-AG
+./textimg/0094.jpg	34725
+./textimg/0095.jpg	TA-AG
+./textimg/0096.jpg	31895
+./textimg/0097.jpg	TA-AG
+./textimg/0098.jpg	37037
+./textimg/0099.jpg	TA-AG
+./textimg/0100.jpg	32649
+./textimg/0101.jpg	TA-AG
+./textimg/0102.jpg	16954
+./textimg/0103.jpg	VA-AM
+./textimg/0104.jpg	32631
+./textimg/0105.jpg	VA-AM
+./textimg/0106.jpg	14818
+./textimg/0107.jpg	VA-AM
+./textimg/0108.jpg	21673
+./textimg/0109.jpg	VA-AM
+./textimg/0110.jpg	05406
+./textimg/0111.jpg	VA-AM
+./textimg/0112.jpg	02672
+./textimg/0113.jpg	VA-AN
+./textimg/0114.jpg	02093 
+./textimg/0115.jpg	VA-AN 
+./textimg/0116.jpg	07980
+./textimg/0117.jpg	VA-AN
+./textimg/0118.jpg	07040
+./textimg/0119.jpg	VA-AN
+./textimg/0120.jpg	25625
+./textimg/0121.jpg	VA-AM
+./textimg/0122.jpg	35172
+./textimg/0123.jpg	VA-AM
+./textimg/0124.jpg	20038
+./textimg/0125.jpg	VA-AM
+./textimg/0126.jpg	24337
+./textimg/0127.jpg	VA-AN
+./textimg/0128.jpg	21471
+./textimg/0129.jpg	VA-AN
+./textimg/0130.jpg	37480
+./textimg/0131.jpg	VA-AM
+./textimg/0132.jpg	39611
+./textimg/0133.jpg	VA-AM
+./textimg/0134.jpg	01341
+./textimg/0135.jpg	VA-AR
+./textimg/0136.jpg	05294
+./textimg/0137.jpg	VA-AR
+./textimg/0138.jpg	05806
+./textimg/0139.jpg	VA-AR
+./textimg/0140.jpg	2016911
+./textimg/0141.jpg	2017030
+./textimg/0142.jpg	2032763
+./textimg/0143.jpg	2038724
+./textimg/0144.jpg	2038974
+./textimg/0145.jpg	2022335
+./textimg/0146.jpg	2038638
+./textimg/0147.jpg	2031112
+./textimg/0148.jpg	2029691
+./textimg/0149.jpg	063055
+./textimg/0150.jpg	EF10
+./textimg/0151.jpg	C009456
+./textimg/0152.jpg	EF10
+./textimg/0153.jpg	10537
+./textimg/0154.jpg	00132
+./textimg/0155.jpg	058571
+./textimg/0156.jpg	EF12
+./textimg/0157.jpg	066865
+./textimg/0158.jpg	EF12
+./textimg/0159.jpg	077547
+./textimg/0160.jpg	EF12
+./textimg/0161.jpg	045667
+./textimg/0162.jpg	4G82 X
+./textimg/0163.jpg	124499
+./textimg/0164.jpg	4G82 X
+./textimg/0165.jpg	09207A
+./textimg/0166.jpg	4G82 X
+./textimg/0167.jpg	021235
+./textimg/0168.jpg	4G82 X
+./textimg/0169.jpg	024822
+./textimg/0170.jpg	4A31 B
+./textimg/0171.jpg	00395A
+./textimg/0172.jpg	4A31 B
+./textimg/0173.jpg	026463
+./textimg/0174.jpg	4A31 B
+./textimg/0175.jpg	030821
+./textimg/0176.jpg	4A31 B
+./textimg/0177.jpg	030673
+./textimg/0178.jpg	4A31 B
+./textimg/0179.jpg	049947
+./textimg/0180.jpg	4G82 X
+./textimg/0181.jpg	038279
+./textimg/0182.jpg	4G82 X
+./textimg/0183.jpg	053658
+./textimg/0184.jpg	4G82 X
+./textimg/0185.jpg	015653
+./textimg/0186.jpg	C12S C
+./textimg/0187.jpg	027369
+./textimg/0188.jpg	C12S C
+./textimg/0189.jpg	070148
+./textimg/0190.jpg	C12S C
+./textimg/0191.jpg	020680
+./textimg/0192.jpg	C12S C
+./textimg/0193.jpg	044861
+./textimg/0194.jpg	C12S C
+./textimg/0195.jpg	03268A
+./textimg/0196.jpg	4G32 N
+./textimg/0197.jpg	2G25
+./textimg/0198.jpg	H21481
+./textimg/0199.jpg	3G82
+./textimg/0200.jpg	H39791
+./textimg/0201.jpg	3G82
+./textimg/0202.jpg	H07947
+./textimg/0203.jpg	3G82
+./textimg/0204.jpg	H07646
+./textimg/0205.jpg	002671
+./textimg/0206.jpg	3G82 G
+./textimg/0207.jpg	004888
+./textimg/0208.jpg	4G18 I
+./textimg/0209.jpg	012178
+./textimg/0210.jpg	4G63 Z
+./textimg/0211.jpg	01689A
+./textimg/0212.jpg	4G63 Z
+./textimg/0213.jpg	00488A
+./textimg/0214.jpg	4D56 T
+./textimg/0215.jpg	017331
+./textimg/0216.jpg	4D56 J
+./textimg/0217.jpg	005739
+./textimg/0218.jpg	4G64 C
+./textimg/0219.jpg	014355
+./textimg/0220.jpg	4G64 C
+./textimg/0221.jpg	040699
+./textimg/0222.jpg	4G63 R
+./textimg/0223.jpg	00985A
+./textimg/0224.jpg	4G63 R
+./textimg/0225.jpg	036678
+./textimg/0226.jpg	4G63 R
+./textimg/0227.jpg	046397
+./textimg/0228.jpg	4G63 R
+./textimg/0229.jpg	015190
+./textimg/0230.jpg	6A12 S
+./textimg/0231.jpg	007156
+./textimg/0232.jpg	6A12 S
+./textimg/0233.jpg	024526
+./textimg/0234.jpg	6A12 S
+./textimg/0235.jpg	027339
+./textimg/0236.jpg	6A12 S
+./textimg/0237.jpg	029269
+./textimg/0238.jpg	6A12 S
+./textimg/0239.jpg	03140A
+./textimg/0240.jpg	6A12 S
+./textimg/0241.jpg	029738
+./textimg/0242.jpg	6A12 S
+./textimg/0243.jpg	034750
+./textimg/0244.jpg	6A12 S
+./textimg/0245.jpg	008671
+./textimg/0246.jpg	6A12 S
+./textimg/0247.jpg	002453
+./textimg/0248.jpg	6A12 S
+./textimg/0249.jpg	330449
+./textimg/0250.jpg	6A12 S
+./textimg/0251.jpg	028500
+./textimg/0252.jpg	6A12 S
+./textimg/0253.jpg	022409
+./textimg/0254.jpg	6A12 S
+./textimg/0255.jpg	003251
+./textimg/0256.jpg	6A12 S
+./textimg/0257.jpg	029160
+./textimg/0258.jpg	6A12 S
+./textimg/0259.jpg	030596
+./textimg/0260.jpg	6A12 S
+./textimg/0261.jpg	067465
+./textimg/0262.jpg	4G92 D
+./textimg/0263.jpg	065951
+./textimg/0264.jpg	4G92 D
+./textimg/0265.jpg	015068
+./textimg/0266.jpg	4G92 D
+./textimg/0267.jpg	003873
+./textimg/0268.jpg	4G92 D
+./textimg/0269.jpg	030095
+./textimg/0270.jpg	4G92 D
+./textimg/0271.jpg	063798
+./textimg/0272.jpg	4G92 D
+./textimg/0273.jpg	066758
+./textimg/0274.jpg	4G92 D
+./textimg/0275.jpg	070476
+./textimg/0276.jpg	4G92 D
+./textimg/0277.jpg	057868
+./textimg/0278.jpg	4G92 D
+./textimg/0279.jpg	023845
+./textimg/0280.jpg	4G92 L
+./textimg/0281.jpg	023097
+./textimg/0282.jpg	4G92 L
+./textimg/0283.jpg	053103
+./textimg/0284.jpg	4G92 L
+./textimg/0285.jpg	058070
+./textimg/0286.jpg	4G92 L
+./textimg/0287.jpg	05274A
+./textimg/0288.jpg	4G92 L
+./textimg/0289.jpg	040801
+./textimg/0290.jpg	4G92 L
+./textimg/0291.jpg	059367
+./textimg/0292.jpg	4G92 L
+./textimg/0293.jpg	014836
+./textimg/0294.jpg	4G18 J
+./textimg/0295.jpg	020858
+./textimg/0296.jpg	4G18 J
+./textimg/0297.jpg	019799
+./textimg/0298.jpg	4G18 J
+./textimg/0299.jpg	04033A
+./textimg/0300.jpg	4G93 M
+./textimg/0301.jpg	046338
+./textimg/0302.jpg	4G93 M
+./textimg/0303.jpg	038567
+./textimg/0304.jpg	4G93 M
+./textimg/0305.jpg	044522
+./textimg/0306.jpg	4G93 M
+./textimg/0307.jpg	047178
+./textimg/0308.jpg	4G93 M
+./textimg/0309.jpg	012363
+./textimg/0310.jpg	4G93 H
+./textimg/0311.jpg	005209
+./textimg/0312.jpg	4G93 H
+./textimg/0313.jpg	004907
+./textimg/0314.jpg	4G93 H
+./textimg/0315.jpg	011286
+./textimg/0316.jpg	4G93 H
+./textimg/0317.jpg	014818
+./textimg/0318.jpg	4G64 A
+./textimg/0319.jpg	4G64 A
+./textimg/0320.jpg	011825
+./textimg/0321.jpg	4G64 A
+./textimg/0322.jpg	007231
+./textimg/0323.jpg	4G64 A
+./textimg/0324.jpg	008733
+./textimg/0325.jpg	4G64 A
+./textimg/0326.jpg	011440
+./textimg/0327.jpg	4G64 A
+./textimg/0328.jpg	001839
+./textimg/0329.jpg	4G64 A
+./textimg/0330.jpg	A32B 09835
+./textimg/0331.jpg	A32C 07022
+./textimg/0332.jpg	A320 08936
+./textimg/0333.jpg	A32D 12543
+./textimg/0334.jpg	VQ30 045257B
+./textimg/0335.jpg	VQ30 014809B
+./textimg/0336.jpg	VQ30 790699A
+./textimg/0337.jpg	VQ20 041153
+./textimg/0338.jpg	VA20 047682
+./textimg/0339.jpg	059702
+./textimg/0340.jpg	GA16
+./textimg/0341.jpg	056048
+./textimg/0342.jpg	GA16
+./textimg/0343.jpg	088315
+./textimg/0344.jpg	GA16
+./textimg/0345.jpg	06328
+./textimg/0346.jpg	B14
+./textimg/0347.jpg	XLA
+./textimg/0348.jpg	0296Y
+./textimg/0349.jpg	B14
+./textimg/0350.jpg	XLA
+./textimg/0351.jpg	036709
+./textimg/0352.jpg	GA16
+./textimg/0353.jpg	030583
+./textimg/0354.jpg	GA16
+./textimg/0355.jpg	041848
+./textimg/0356.jpg	GA16
+./textimg/0357.jpg	124280
+./textimg/0358.jpg	VQ20
+./textimg/0359.jpg	136011
+./textimg/0360.jpg	VQ20
+./textimg/0361.jpg	060448
+./textimg/0362.jpg	CG13
+./textimg/0363.jpg	07057Y
+./textimg/0364.jpg	CG13
+./textimg/0365.jpg	015753
+./textimg/0366.jpg	QG16
+./textimg/0367.jpg	002000
+./textimg/0368.jpg	QG16
+./textimg/0369.jpg	016916
+./textimg/0370.jpg	QG16
+./textimg/0371.jpg	000231C
+./textimg/0372.jpg	QR20
+./textimg/0373.jpg	005740
+./textimg/0374.jpg	SR20
+./textimg/0375.jpg	090062
+./textimg/0376.jpg	GA16
+./textimg/0377.jpg	079275KA1
+./textimg/0378.jpg	F8CV
+./textimg/0379.jpg	275826KA2
+./textimg/0380.jpg	F8CV
+./textimg/0381.jpg	041557
+./textimg/0382.jpg	F8CV
+./textimg/0383.jpg	016568KA1
+./textimg/0384.jpg	F8CV
+./textimg/0385.jpg	938945
+./textimg/0386.jpg	F8CV
+./textimg/0387.jpg	103362KA2
+./textimg/0388.jpg	B10S1
+./textimg/0389.jpg	092170
+./textimg/0390.jpg	C20SED
+./textimg/0391.jpg	102863
+./textimg/0392.jpg	C20SED
+./textimg/0393.jpg	1477695
+./textimg/0394.jpg	F22B2
+./textimg/0395.jpg	3543487
+./textimg/0396.jpg	F22A1
+./textimg/0397.jpg	4542892
+./textimg/0398.jpg	F22A1
+./textimg/0399.jpg	3541926
+./textimg/0400.jpg	F22A1
+./textimg/0401.jpg	3516400
+./textimg/0402.jpg	F22A1
+./textimg/0403.jpg	1490649
+./textimg/0404.jpg	F22B2
+./textimg/0405.jpg	2467849
+./textimg/0406.jpg	F22B1
+./textimg/0407.jpg	3592916
+./textimg/0408.jpg	F22A1
+./textimg/0409.jpg	3674385
+./textimg/0410.jpg	F22A1
+./textimg/0411.jpg	3585403
+./textimg/0412.jpg	F22A1
+./textimg/0413.jpg	1569115
+./textimg/0414.jpg	D15B7
+./textimg/0415.jpg	2515930
+./textimg/0416.jpg	D15B7
+./textimg/0417.jpg	1572790
+./textimg/0418.jpg	D15B7
+./textimg/0419.jpg	2514385
+./textimg/0420.jpg	D15B7
+./textimg/0421.jpg	2532100
+./textimg/0422.jpg	D15B7
+./textimg/0423.jpg	2547561
+./textimg/0424.jpg	D15B7
+./textimg/0425.jpg	2504959
+./textimg/0426.jpg	D15B7
+./textimg/0427.jpg	3853019
+./textimg/0428.jpg	D16Z6
+./textimg/0429.jpg	1580391
+./textimg/0430.jpg	D15B7
+./textimg/0431.jpg	2517185
+./textimg/0432.jpg	D15B7
+./textimg/0433.jpg	2520741
+./textimg/0434.jpg	D15B7
+./textimg/0435.jpg	2620178
+./textimg/0436.jpg	D16Z6
+./textimg/0437.jpg	3042069
+./textimg/0438.jpg	B20B4
+./textimg/0439.jpg	2754042
+./textimg/0440.jpg	D16Y8
+./textimg/0441.jpg	2758161
+./textimg/0442.jpg	D16Y8
+./textimg/0443.jpg	P2331631L
+./textimg/0444.jpg	22200856T
+./textimg/0445.jpg	22200310T
+./textimg/0446.jpg	32204734E
+./textimg/0447.jpg	32204363E
+./textimg/0448.jpg	32204325E
+./textimg/0450.jpg	0633Y
+./textimg/0451.jpg	P260
+./textimg/0452.jpg	1AZ
+./textimg/0453.jpg	X034947
+./textimg/0454.jpg	4A
+./textimg/0455.jpg	8793482
+./textimg/0456.jpg	4A
+./textimg/0457.jpg	F084475
+./textimg/0458.jpg	4A
+./textimg/0459.jpg	L019048
+./textimg/0460.jpg	4A
+./textimg/0461.jpg	K873939
+./textimg/0462.jpg	4A
+./textimg/0463.jpg	K263885
+./textimg/0464.jpg	4A
+./textimg/0465.jpg	K297450
+./textimg/0466.jpg	4A
+./textimg/0467.jpg	J039348
+./textimg/0468.jpg	4A
+./textimg/0469.jpg	M504637
+./textimg/0470.jpg	4A
+./textimg/0471.jpg	M209951
+./textimg/0472.jpg	1588867
+./textimg/0473.jpg	4E
+./textimg/0474.jpg	5K 1239390
+./textimg/0475.jpg	5K 1165900
+./textimg/0476.jpg	7K 0698833
+./textimg/0477.jpg	7K 0589491
+./textimg/0478.jpg	7K 0270316
+./textimg/0479.jpg	1AZ
+./textimg/0480.jpg	3102074
+./textimg/0481.jpg	1AZ
+./textimg/0482.jpg	3068071
+./textimg/0483.jpg	2284231
+./textimg/0484.jpg	3S,2393312
+./textimg/0485.jpg	3S,2415726
+./textimg/0486.jpg	0823921
+./textimg/0487.jpg	5E
+./textimg/0488.jpg	0713391
+./textimg/0489.jpg	5E
+./textimg/0490.jpg	1ZZ
+./textimg/0491.jpg	A062998
+./textimg/0492.jpg	1ZZ
+./textimg/0493.jpg	A136539
+./textimg/0494.jpg	31250
+./textimg/0495.jpg	331GXI
+./textimg/0496.jpg	YLN
+./textimg/0497.jpg	G4EK
+./textimg/0498.jpg	W533837
+./textimg/0499.jpg	6030023
+./textimg/0500.jpg	D4EA
+./textimg/0501.jpg	1286244
+./textimg/0502.jpg	G6BP
+./textimg/0503.jpg	02AU7566
+./textimg/0504.jpg	02AU7440
+./textimg/0505.jpg	C16SE 02DL3919
+./textimg/0506.jpg	02GZ9826
+./textimg/0507.jpg	02W92115
+./textimg/0508.jpg	X20XEV 25000159
+./textimg/0509.jpg	15291
+./textimg/0510.jpg	303GL
+./textimg/0511.jpg	YLN
+./textimg/0512.jpg	1050Y
+./textimg/0513.jpg	303GL
+./textimg/0514.jpg	YLN
+./textimg/0515.jpg	22979
+./textimg/0516.jpg	303T
+./textimg/0517.jpg	YLN
+./textimg/0518.jpg	02075
+./textimg/0519.jpg	331GL
+./textimg/0520.jpg	YLN
+./textimg/0521.jpg	06930
+./textimg/0522.jpg	331GLA
+./textimg/0523.jpg	YLN
+./textimg/0524.jpg	06178
+./textimg/0525.jpg	331GLA
+./textimg/0526.jpg	YLN
+./textimg/0527.jpg	19675
+./textimg/0528.jpg	331GLi
+./textimg/0529.jpg	YLN
+./textimg/0530.jpg	01986
+./textimg/0531.jpg	331GLi
+./textimg/0532.jpg	YLN
+./textimg/0533.jpg	331GTA
+./textimg/0534.jpg	YLN
+./textimg/0535.jpg	331GCi
+./textimg/0536.jpg	YLN
+./textimg/0537.jpg	331GXi
+./textimg/0538.jpg	3579Y
+./textimg/0539.jpg	YLN
+./textimg/0540.jpg	058800
+./textimg/0541.jpg	CG13
+./textimg/0542.jpg	059030
+./textimg/0543.jpg	CG13
+./textimg/0544.jpg	01583
+./textimg/0545.jpg	SGXA
+./textimg/0546.jpg	Y10
+./textimg/0547.jpg	00986
+./textimg/0548.jpg	SGXA
+./textimg/0549.jpg	Y10
