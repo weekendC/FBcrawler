@@ -698,7 +698,7 @@
 ./textimg/0698.jpg	008832
 ./textimg/0699.jpg	4D56 G
 ./textimg/0700.jpg	00174A
-./textimg/0701.jpg	4D56K
+./textimg/0701.jpg	4D56 K
 ./textimg/0702.jpg	004688
 ./textimg/0703.jpg	4G18 I
 ./textimg/0704.jpg	000153
@@ -752,7 +752,7 @@
 ./textimg/0752.jpg	032142
 ./textimg/0753.jpg	6A12S
 ./textimg/0754.jpg	037082
-./textimg/0755.jpg	6A12S
+./textimg/0755.jpg	6A12 S
 ./textimg/0756.jpg	028667
 ./textimg/0757.jpg	C12S C
 ./textimg/0758.jpg	053559
@@ -810,7 +810,7 @@
 ./textimg/0810.jpg	1ZZ
 ./textimg/0811.jpg	4018982
 ./textimg/0812.jpg	1ZZ
-./textimg/0813.jpg	A07725
+./textimg/0813.jpg	A077254
 ./textimg/0814.jpg	1095986
 ./textimg/0815.jpg	3S
 ./textimg/0816.jpg	1540236
